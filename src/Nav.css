@@ -1,0 +1,16 @@
+.Nav {
+    background-color: #ddd;
+    padding: 10px;
+  }
+  
+  .Nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .Nav a.active {
+    color: #007BFF;
+  }
+  

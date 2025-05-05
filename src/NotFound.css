@@ -1,0 +1,21 @@
+.NotFound {
+    text-align: center;
+    padding: 2rem;
+    color: #900;
+  }
+
+  .back-home-btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .back-home-btn:hover {
+    background-color: #0056b3;
+  }
